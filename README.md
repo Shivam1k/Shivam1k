@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Alireza+javadi!;Full+Stack+Developer;+PHP+|+Laravel+|+SQL+|+Javascript+|+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Shivam+Kumar+urf+Bug+Slayer!;Full+Stack+Developer;+MongoDb+|+Express+|+PostgreSQL+|+Javascript+|+React)](https://git.io/typing-svg)
 
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
