@@ -17,10 +17,6 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 [![Shivam's current streak](https://streak-stats.demolab.com/?user=Shivam1k&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
