@@ -13,6 +13,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 [![Shivam's GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=Shivam1k&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](https://github.com/Shivam1k)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam1k&show_icons=true&locale=en&layout=compact" alt="Shivam1k" /></p>
 
 
 
