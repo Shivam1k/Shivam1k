@@ -10,6 +10,9 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
+
+[![Shivam's GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=Shivam1k&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](https://github.com/Shivam1k)
+
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Shivam1k&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
